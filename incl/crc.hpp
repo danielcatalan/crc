@@ -37,7 +37,7 @@ constexpr ulong reflect (ulong v, int b)
  return v;
 }
 
-
+// CRC Model
 struct cm_t
   {
    int   cm_width;   /* Parameter: Width in bits [8,32].       */
