@@ -1,2 +1,2 @@
-# crc
+# CRC
 CRC Library for C++
